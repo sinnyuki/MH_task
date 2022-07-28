@@ -1,0 +1,53 @@
+IDS,QIDS,BDI,CESD,SDS,MADRS,HRSD,S_name
+2,1,1,1,1,1,2,Early insomnia
+2,1,1,1,1,1,2,Middle insomnia
+2,1,1,1,1,1,2,Late insomnia
+2,1,1,0,0,0,0,Hypersomnia
+2,2,2,2,2,2,2,Sad mood
+2,0,0,2,0,0,1,Anxious
+2,0,0,0,0,0,1,Panic
+2,0,2,0,2,0,1,Irritable
+2,0,0,0,0,0,0,Mood reactivity 
+2,0,0,0,2,0,0,Diurnal variation
+2,0,0,0,0,0,0,Grief
+1,1,1,2,1,2,2,Appetite decreas
+1,1,1,0,1,0,0,Appetite increase
+1,1,0,0,2,0,2,Weight decrease
+1,1,0,0,0,0,0,Weight increase
+1,1,2,2,2,2,0,Concentration 
+1,1,2,0,2,0,0,Indescisiveness
+1,1,2,0,0,0,1,Guilt
+1,1,2,0,0,0,0,Worthlessness
+2,0,2,2,2,2,0,Pessimism
+2,2,2,0,2,2,2,Suicidal ideation
+2,1,2,0,0,0,1,Interest loss
+2,1,2,2,2,0,1,Pleasure loss
+1,1,2,1,2,1,1,Fatigue
+1,1,2,1,0,1,1,Energy loss
+2,0,2,0,2,0,2,Libido
+2,1,0,0,0,0,2,Retardation
+2,1,2,0,2,0,2,Agitation
+2,0,0,0,0,0,0,Somatic complaints
+2,0,0,0,2,0,1,Sympathetic arousal
+2,0,0,0,2,0,1,Gastrointestinal 
+2,0,0,0,0,0,0,Interpersonal sensitivity
+2,0,0,0,0,0,0,Paralysis
+0,0,2,2,0,0,0,Past failure
+0,0,2,0,0,0,0,Punishment
+0,0,2,0,0,0,0,Self-dislike
+0,0,2,0,0,0,0,Self-criticalness
+0,0,2,2,2,0,0,Crying
+0,0,0,2,0,0,0,Lonely
+0,0,0,2,2,0,0,Effort
+0,0,0,2,0,0,0,Talked less
+0,0,0,2,0,0,0,People are unfriendly
+0,0,0,2,0,0,0,People disliked me
+0,0,0,2,0,0,0,Feeling bothered
+0,0,0,2,0,0,0,Feeling good
+0,0,0,2,0,0,0,Feeling happy
+0,0,0,0,2,0,0,Feeling needed
+0,0,0,0,2,0,0,Life is full
+0,0,0,0,0,2,0,Inner tension
+0,0,0,0,0,2,0,Inability to feel
+0,0,0,0,0,0,2,Hypochondriasis
+0,0,0,0,0,2,,Loss of insight
