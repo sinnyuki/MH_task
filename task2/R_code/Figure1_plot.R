@@ -12,7 +12,7 @@ library('tidyverse')
 library('bruceR')
 ##### Data preparation
 
-dataplot = bruceR::import("C:\\Users\\hmz19\\Desktop\\task2\\R\\MatrixA_plot.csv")  #Load data for plot (difference between specific and compound symptoms)
+dataplot = bruceR::import("C:\\Users\\hmz19\\Desktop\\task2\\R_code\\materials\\MatrixA_plot.csv")  #Load data for plot (difference between specific and compound symptoms)
 
 
 ##### Figure 1 
