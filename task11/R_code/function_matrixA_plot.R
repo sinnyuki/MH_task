@@ -9,7 +9,7 @@ library('bruceR')
 #install.packages('ggplot2')
 library('ggplot2')
 
-#font
+#color
 #install.packages('viridisLite')
 #install.packages('viridis')
 library('viridisLite')
