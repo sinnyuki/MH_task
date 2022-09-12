@@ -36,8 +36,8 @@ rawdata = bruceR::import("C:\\Users\\hmz19\\Desktop\\Mental Health\\task\\task11
   #the structure of matrixA: 
   #first row: scale_name_1, scale_name_2, scale_name_3,...,scale_name_n,S_name
   #...
-  #every row represents a symptom
-  #every column represents a scale
+  #each row represents a symptom
+  #each column represents a scale
 
 #setting the number of scales and symptoms 
 n_scales = 26 #number of scales
