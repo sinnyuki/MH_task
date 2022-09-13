@@ -115,7 +115,7 @@ matrixA_plot <- function(dataplot,n_scal,n_symp){
           plot.margin = unit(rep(.5,4), "lines"),
           text = element_text(family="songti")) +
     labs(fill="") + # remove legend title
-    scale_y_continuous(limits=c(0,n_scal), expand=c(0,0), breaks=1:n_scal, labels=levels(plot$Scales))+
+    scale_y_continuous(limits=c(0,n_scal+0.5), expand=c(0,0), breaks=1:n_scal, labels=levels(plot$Scales))+
     scale_color_manual(values=pal_rb);  
     
     ggsave(plot=a,filename="Figure1.pdf", width = 25, height = 15)
